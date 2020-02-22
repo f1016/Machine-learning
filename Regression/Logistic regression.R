@@ -1,5 +1,6 @@
-table <- read.table("LogitRegData.txt", header = TRUE, sep =" ", dec = ".")
+#Using Newton's method 
 
+table <- read.table("LogitRegData.txt", header = TRUE, sep =" ", dec = ".")
 
 # x = table[i,1,1]
 # y = table[i,2,1]
