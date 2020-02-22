@@ -1,3 +1,5 @@
+#Using Newton's method 
+
 table <- read.table("PoisRegData.txt", header = TRUE, sep =" ", dec = ".")
 
 # x = table[i,1,1]
