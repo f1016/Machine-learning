@@ -1,5 +1,5 @@
 #Using Newton's method 
-
+#alpha + betaXi
 table <- read.table("LogitRegData.txt", header = TRUE, sep =" ", dec = ".")
 
 # x = table[i,1,1]
